@@ -4,4 +4,5 @@ pievienots klāt doktora nosaukums - Dr.
 """
 
 
-
+saraksts1=["Kalniņš", "Opmanis", "Vēzis", "Almane"]
+sarakts2=[]
