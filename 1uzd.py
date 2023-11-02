@@ -6,6 +6,7 @@ atslēga...vērtība - vārdnīca
 cipari 1,2,3,4,5,6,7,8,9
        I, IV, V, IX..
     1984
+    Pierakstīt klāt!
 """
 
 class AAA:
