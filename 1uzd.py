@@ -1,6 +1,8 @@
 """
 Uzrakstiet programmu definējot klasi,lai veselu skaitli pārveidotu par romiešu ciparu.
 5...V
+
+
 Datu struktūra - {} tā tukša vārdnīca, dict()
 atslēga...vērtība - vārdnīca
 cipari 1,2,3,4,5,6,7,8,9
@@ -9,7 +11,7 @@ cipari 1,2,3,4,5,6,7,8,9
     Pierakstīt klāt!
 """
 
-class AAA:
+class AAA:  # Aaa
     def __init__(self):
         self.rom_cip={
             1: 'I',
@@ -34,7 +36,7 @@ class AAA:
                num-=value
        return result
 
-skaitlis=2
+skaitlis=2023   # 1984   2023
 konvertet=AAA()
 rom_sks=konvertet.uz_romu(skaitlis)
 print(f"{skaitlis} romiešu ciparos ir {rom_sks}.")
